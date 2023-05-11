@@ -15,6 +15,4 @@ function calculateProfitAndLoss() {
     }
 }
 
-
-
 clickButton.addEventListener('click',calculateProfitAndLoss);
